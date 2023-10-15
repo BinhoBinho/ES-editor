@@ -1,5 +1,5 @@
 # ES-editor
-This is my very first project, so I'm not quite sure of what I'm doing.
+This is my very first project, so issues may occur.
 
 Made this so I could learn about some concepts in C such as memory allocation, pointers and file i/o.
 
